@@ -1,0 +1,14 @@
+{
+  "united_states": {
+    "label": "United States",
+    "series": {
+      "3M": "TB3MS",
+      "6M": "TB6MS",
+      "1Y": "GS1",
+      "2Y": "GS2",
+      "5Y": "GS5",
+      "10Y": "GS10",
+      "30Y": "GS30"
+    }
+  }
+}
