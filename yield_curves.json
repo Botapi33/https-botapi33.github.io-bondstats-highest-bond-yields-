@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-30T12:57:21.223868Z",
+    "lastUpdated": "2026-06-03T20:43:52.217699Z",
     "source": "BondStats Yield Curve Feed",
     "type": "sovereign_yield_curve"
   },
@@ -8,20 +8,20 @@
     "united_states": {
       "label": "United States",
       "curve": {
-        "3M": 3.61,
-        "6M": 3.59,
-        "1Y": 3.69,
-        "2Y": 3.8,
-        "5Y": 3.94,
-        "10Y": 4.32,
-        "30Y": 4.91
+        "3M": 3.6,
+        "6M": 3.62,
+        "1Y": 3.79,
+        "2Y": 4.0,
+        "5Y": 4.15,
+        "10Y": 4.48,
+        "30Y": 5.03
       },
       "metrics": {
-        "slope_2s10s": 0.52,
-        "slope_10s30s": 0.59,
+        "slope_2s10s": 0.48,
+        "slope_10s30s": 0.55,
         "inverted": false
       },
-      "date": "2026-04-01"
+      "date": "2026-05-01"
     }
   }
 }
